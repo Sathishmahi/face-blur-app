@@ -1,0 +1,6 @@
+opencv-python
+supervision
+cvzone
+gdown
+pyyaml
+streamlit
