@@ -4,3 +4,4 @@ cvzone
 gdown
 pyyaml
 streamlit
+ultralytics

@@ -3,7 +3,7 @@ artifact:
 
 face_blur:
   root_dir_name: face_blur
-  cascade_id: 1PPO2MCttsmSqyB-vKh5C7SumwFKuhgyj
-  cascade_file_name: face_cascade.xml
+  model_dirve_id: 1AlwKlayaCsiUZHVVtmdRGxldtRnzJ60h
+  model_file_name: model.pt
   input_video_filename: input.mp4
   output_video_filename: out.mp4
